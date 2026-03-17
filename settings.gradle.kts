@@ -31,5 +31,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "SmolChat Android"
 include(":app")
-include(":smollm")
+// include(":smollm")
 include(":hf-model-hub-api")
